@@ -1,0 +1,40 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+  }
+  .navbar {
+    background-color: #000000;
+  }
+  .jumbotron {
+    background-color: #000000;
+    color: #ffffff;
+  }
+  .card-body
+  {
+    background: rgb(230,230,230);
+    background: linear-gradient(90deg, rgba(230,230,230,1) 0%, rgba(72,96,181,1) 100%, rgba(12,104,184,1) 100%, rgba(0,56,255,1) 100%);
+  }
+  .card-text
+  {
+    color: black;
+  }
+  #container {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    transform: rotate(45deg);
+    top: -20%; bottom: 0; left: 0; right: -40%;
+  }
+h5, h3, h4, h6
+{
+    color: black;
+}
+img
+{
+    width: 100px;
+    height: 100px;
+}
+
+
+ 
